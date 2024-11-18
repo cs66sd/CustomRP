@@ -5,7 +5,3 @@ Assembly-CSharp.csproj
 Assembly-CSharp-Editor.csproj
 *.sln
 *.csproj
-ProjectSettings
-Packages
-.idea
-obj/Debug
